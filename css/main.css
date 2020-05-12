@@ -1,0 +1,25 @@
+.header-pmmc{
+    width: 100% ;
+    background-color: #f1f2f2;
+    height: 60px;
+}
+.logo-pmmc{
+    float: left;
+    max-width:130px;
+    max-height:50px;
+    width: auto;
+    height: auto;
+    padding: 3px;
+}
+.logo-fatec li{
+    display: inline-block;
+    float: right;
+    padding: 5px;
+}
+.title-header h1{
+    margin: 0;
+    width: 130px;
+    display: inline-block;
+    padding: 10px;
+    font-family: Impact, fantasy
+}
